@@ -1,58 +1,58 @@
-[
-
-    {
-        "id": 1,
-        "nombre": "Lucas",
-        "edad": 24,
-        "localidad": "Argentina"
-    },
-    {
-        "id": 2,
-        "nombre": "Matias",
-        "edad": 24,
-        "localidad": "EE.UU"
-    },
-    {
-        "id": 3,
-        "nombre": "Elias",
-        "edad": 23,
-        "localidad": "Italia"
-    },
-    {
-        "id": 4,
-        "nombre": "Sofia",
-        "edad": 18,
-        "localidad": "Japon"
-    },
-    {
-        "id": 5,
-        "nombre": "Tomas",
-        "edad": 20,
-        "localidad": "Suecia"
-    },
-    {
-        "id": 6,
-        "nombre": "Alma",
-        "edad": 10,
-        "localidad": "España"
-    },
-    {
-        "id": 7,
-        "nombre": "Tomas",
-        "edad": 24,
-        "localidad": "Alemania"
-    },
-    {
-        "id": 8,
-        "nombre": "Rocio",
-        "edad": 19,
-        "localidad": "Rusia"
-    },
-    {
-        "id": 9,
-        "nombre": "Fatima",
-        "edad": 24,
-        "localidad": "Miami"
-    }
-
-  ]
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nombre": "Lucas",
+            "edad": 24,
+            "localidad": "Argentina"
+        },
+        {
+            "id": 2,
+            "nombre": "Matias",
+            "edad": 24,
+            "localidad": "EE.UU"
+        },
+        {
+            "id": 3,
+            "nombre": "Elias",
+            "edad": 23,
+            "localidad": "Italia"
+        },
+        {
+            "id": 4,
+            "nombre": "Sofia",
+            "edad": 18,
+            "localidad": "Japon"
+        },
+        {
+            "id": 5,
+            "nombre": "Tomas",
+            "edad": 20,
+            "localidad": "Suecia"
+        },
+        {
+            "id": 6,
+            "nombre": "Alma",
+            "edad": 10,
+            "localidad": "España"
+        },
+        {
+            "id": 7,
+            "nombre": "Tomas",
+            "edad": 24,
+            "localidad": "Alemania"
+        },
+        {
+            "id": 8,
+            "nombre": "Rocio",
+            "edad": 19,
+            "localidad": "Rusia"
+        },
+        {
+            "id": 9,
+            "nombre": "Fatima",
+            "edad": 24,
+            "localidad": "Miami"
+        }
+    ]
+}
